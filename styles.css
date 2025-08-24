@@ -1,0 +1,16 @@
+body {
+  min-height: 300px;
+  margin: 0;
+  background: #e0f7fa;
+}
+
+.trail {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 9999;
+  transition: background 0.2s, opacity 0.2s;
+  will-change: left, top, width, height, background, opacity;
+}
