@@ -1,4 +1,5 @@
 # 🐭 Mouse Trail (Cursor Follower)
+Live Site URL: https://antonina-kachusova.github.io/Mouse-Trail-DOM-Events-Cursor-Follower/
 
 A lightweight, framework-free **cursor trail** effect in pure JavaScript and CSS.  
 As you move the mouse, a chain of colored dots smoothly chases the pointer with easing, creating a fluid rainbow trail.
